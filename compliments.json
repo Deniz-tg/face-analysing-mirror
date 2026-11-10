@@ -1,0 +1,40 @@
+{
+      				anytime: [
+        			"Du bist stark!",
+        			"Du siehst heute fantastisch aus!",
+        			"Mach weiter so!"
+    				  ],
+     				 morning: [
+        			"Guten Morgen!",
+       				 "Bereit für einen produktiven Tag?"
+      				],
+     				 afternoon: [
+       				 "Schönen Nachmittag!"
+      				],
+     				 evening: [
+       				 "Guten Abend!",
+       				 "Zeit zum Relaxen!"
+     				 ],
+                       monday: [
+      				  "Push Day – gib alles heute!"
+      				],
+      				tuesday: [
+       				 "Pull Day – bleib dran!"
+      				],
+    				  wednesday: [
+      				  "Leg Day – nicht überspringen!",
+      				  "Vielleicht heute Basketball?"
+			     	 ],
+			     	 thursday: [
+       				 "Push Day – nochmal Gas geben!"
+     				 ],
+     				 friday: [
+     		  		 "Pull Day – das Wochenende kommt!"
+      				],
+    				  saturday: [
+    				    "Leg Day oder Basketball spielen?"
+     				 ],
+     				 sunday: [
+       				 "Ruhetag – regeneriere dich gut!"
+     				 ]
+   				 }
